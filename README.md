@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is to practice communication.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+1. setup readme
+2. other tasks
+3. ...
 
 ## Getting started
 
